@@ -1,4 +1,4 @@
-I will no longer be working on this (most likely), and as incomplete as it is, I felt that this would have been wasted sitting as a private repo
+I will no longer be working on this (most likely), and as incomplete as it is, I felt that this would have been wasted sitting as a private repo. Since this code is fairly old, you'll see some "severe" vulnerabilities for some packages used but all of that only pertains to development and won't affect production.
 
 Key features:
 - Guest players
