@@ -36,3 +36,5 @@ and you're off to the races
 ![Screenshot_413](https://github.com/timyc/Magic-Barrage-PBBG/assets/29265905/4cfb7bf3-a0c9-4ba7-b680-e14bc03834ac)
 
 Very feature in-complete but hey, your game is already better than Lyrania.
+
+Alternatively, if you want a "feature complete" but very old PBBG code, you can take a look at [To Lands Unknown](https://github.com/timyc/To-Lands-Unknown)
