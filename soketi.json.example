@@ -1,0 +1,10 @@
+{
+    "port": 6001,
+    "appManager.array.apps": [
+        {
+            "id": "magicbarrage",
+            "key": "circinus",
+            "secret": "SECRET_KEY_FROM_ENV_FILE"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+    background-color: #fff3;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #0003;
+    border-radius: 10px;
+    transition: all .2s ease-in-out;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+
+.center {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.right {
+    text-align: right !important;
+}
+
+.bl-0 {
+    border-left: 0 !important;
+}
+
+.br-0 {
+    border-right: 0 !important;
+}
+
+.pointer {
+    cursor: pointer !important;
+}
+
+.white {
+    color: #fff !important;
+}
+
+.green {
+    color: #008500 !important;
+}
+
+.orange {
+    color: #ff7f00 !important;
+}
+
+.purple {
+    color: #b700ff !important;
+}
+
+.yellow {
+    color: #cfa90f !important;
+}
+
+.red {
+    color: #ff0000 !important;
+}
+
+.blue {
+    color: #2356e2 !important;
+}
+
+.peach {
+    color: #fdbd7d !important;
+}
+
+.bold {
+    font-weight: bold !important;
+}
+
+.left {
+    display: flex !important;
+    justify-content: flex-start !important;
+    align-items: center !important;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.widget-card-title {
+    box-shadow: 0 2px 0 #0c0b09, 0 3px 0 rgb(255 255 255 / 4%);
+    color: #c79e53;
+    font-family: candara;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin: 0 auto;
+    padding: 8px 0 5px 5px;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+.widget-card-content {
+    height: auto;
+    margin: 12px auto 0;
+    min-height: 70px;
+    width: 100%;
+    font-family: candara;
+    color: #ead796;
+}
+
+.widget-card {
+    background: url(/img/ui/sidebar-box-top-background.png) no-repeat scroll center top;
+    background-size: cover;
+    border: none;
+}
+
+.el-divider {
+    border: none;
+    box-shadow: 0 2px 0 #0c0b09, 0 3px 0 rgb(255 255 255 / 4%);
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin: 0 0 10px 0;
+    padding: 8px 0 5px 5px;
+    text-transform: uppercase;
+}
+
+.limiter {
+    max-width: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

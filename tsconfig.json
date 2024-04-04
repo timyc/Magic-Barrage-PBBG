@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "es2020",
+      "module": "es2020",
+      "moduleResolution": "node",
+      "baseUrl": ".",
+      "types": ["element-plus/global", "vite/client"], // Element-plus global types
+      "strict": true,                 // Enable strict type-checking options
+      "skipLibCheck": true,           // Skip type checking of declaration files
+      "noImplicitAny": false,          // Bypass raising errors on `any` type
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "paths": {
+        "@/*": ["./resources/vue/*"]
+      }
+    },
+    "include": ["resources/vue/**/*"]  // Frontend paths pattern
+  }

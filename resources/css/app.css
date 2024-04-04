@@ -1,0 +1,16 @@
+.widget-card {
+    background: url(/images/sidebar-box-top-background.png) no-repeat scroll center top;
+    border: none;
+}
+
+.widget-card-title {
+    box-shadow: 0 2px 0 #0c0b09, 0 3px 0 rgb(255 255 255 / 4%);
+    color: #c79e53;
+    font-family: candara;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin: 0 auto;
+    padding: 8px 0 5px 5px;
+    text-transform: uppercase;
+    width: 100%;
+}

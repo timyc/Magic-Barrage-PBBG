@@ -1,0 +1,31 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "@vitejs/plugin-vue": "^3.0.1",
+        "axios": "^1.1.2",
+        "bootstrap": "^5.2.3",
+        "laravel-echo": "^1.14.2",
+        "laravel-vite-plugin": "^0.7.0",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "pusher-js": "^7.5.0",
+        "sass": "^1.56.1",
+        "ts-loader": "^9.4.2",
+        "typescript": "^4.9.4",
+        "vite": "^3.0.0",
+        "vue": "^3.2.37"
+    },
+    "dependencies": {
+        "@soketi/soketi": "^1.5.0",
+        "element-plus": "^2.2.26",
+        "pinia": "^2.0.28",
+        "pinia-plugin-persistedstate": "^3.0.1",
+        "vue-recaptcha": "^2.0.3",
+        "vue-router": "^4.1.6"
+    }
+}
